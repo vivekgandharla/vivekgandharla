@@ -27,7 +27,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1g9KU9d4oDBK9WOJBNO0Kk-ORO3wBT5Bv/view?usp=drive_link](https://drive.google.com/file/d/1g9KU9d4oDBK9WOJBNO0Kk-ORO3wBT5Bv/view?usp=drive_link)
 
-- ⚡ Fun fact **I tweaked my carrer from an artist to Techie however i've always been a tech enthusiast now i'm more passionate to leadn new technologies, i try to keep myself updated and cognizant.**
+- ⚡ Fun fact **I tweaked my career from an artist to a techie, however i've always been a tech enthusiast now i'm more passionate to learn new technologies and upskill myself, i try to keep myself updated and cognizant.**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
